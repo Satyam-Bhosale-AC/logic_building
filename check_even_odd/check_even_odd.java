@@ -1,3 +1,4 @@
+package check_even_odd;
 import java.util.*;
 class check_even_odd{
 	public static void main(String args[]){

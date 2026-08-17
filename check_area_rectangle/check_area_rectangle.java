@@ -1,3 +1,4 @@
+package check_area_rectangle;
 import java.util.*;
 class check_area_rectangle {
 	public static void main(String args[]){

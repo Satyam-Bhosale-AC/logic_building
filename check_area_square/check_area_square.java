@@ -1,3 +1,4 @@
+package check_area_square;
 import java.util.*;
 class check_area_square {
 	public static void main(String args[]){

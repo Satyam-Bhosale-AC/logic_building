@@ -1,3 +1,4 @@
+package check_negative;
 import java.util.*;
 class check_negative {
 	public static void main(String args[]){

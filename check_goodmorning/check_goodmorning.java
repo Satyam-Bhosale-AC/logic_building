@@ -1,3 +1,4 @@
+package check_goodmorning;
 import java.util.*;
 class check_goodmorning {
 	public static void main(String args[]){
