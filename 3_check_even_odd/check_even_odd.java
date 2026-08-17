@@ -1,14 +1,14 @@
-package check_negative;
+
 import java.util.*;
-class check_negative {
+class check_even_odd{
 	public static void main(String args[]){
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter a number: ");
 		int n = sc.nextInt();
-		if(n<0) {
-			System.out.println("Negative Number");
+		if(n%2==0) {
+			System.out.println("Even Number");
 		} else {
-			System.out.println("Not a negative number");
+			System.out.println("Odd number");
 		}
 	sc.close();
 	}
