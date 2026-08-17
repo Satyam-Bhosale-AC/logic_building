@@ -6,7 +6,7 @@ class check_area_rectangle {
 		int n = sc.nextInt();
         System.out.println("Enter breadth: ");
 		int m = sc.nextInt();
-        double area= 0.5*m*n;
+        double area= m*n;
         if(n>0 && m>0){
             System.out.println("Area of rectangle is: " + area);
         } else {
